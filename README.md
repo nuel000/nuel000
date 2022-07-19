@@ -2,7 +2,7 @@
 
 # Hi there, I'm Emmanuel 
 
-## I'm an aspiring data analyst and my objective is to solve complex problems and tell stories with the data!!
+## A data scientist/analyst interested in solving complex problems and tell stories with the data!!
 
 - 👀 I’m interested in taking up challenges and solving problems using data.
 - 🌱 I’m currently taking a data analyst nano degree programme with Udacity which I am hoping to complete soon.
