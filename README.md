@@ -1,21 +1,29 @@
 
 <h1 align="center">Hi 👋, I'm Emmanuel Momoh</h1>
-I'm junior data scientist versed in gathering, cleaning, analyzing and explaining data for use by technical and non-technical personnel to inspire decision-making in businesses intelligence. My interest surrounds building robust machine learning algorithms that solves real world problems. My skill set include SQL, Python, PowerBI, Machine Learning, Streamlit (data app development and deployment) and Cloud Computing(AWS).
+I'm junior data scientist versed in gathering, cleaning, analyzing and explaining data for use by technical and non-technical personnel to inspire decision-making in businesses intelligence.My skill set include SQL, Python, PowerBI, Machine Learning, Streamlit (data app development and deployment) and Cloud Computing(AWS).
 
-- 🌱 I’m currently learning **AWS cloud computing**
 
-- 📝 I regularly write articles on [https://medium.com/@momohemmanuel370](https://medium.com/@momohemmanuel370)
+<br>
+<br>
 
-- 💬 Ask me about **data science and machine learning**
+### `Areas of Expertise`
+- Data Gathering (Web Scrapping and API)
+- Data Cleaning (Numpy,Pandas,Regex)
+- Data Analysis and Visualisation (Pandas, Matplotlib, Seaborn, Plotly) 
+- Building robust machine learning algorithms that solves real world problems. 
+- Web app Deployment (AWS)
+<br>
+<br>
 
-- 📫 How to reach me **momohemmanuel370@gmail.com**
+### `Connect with me`
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jUXXg0iv42XcnswReQKH6lVSHTVwqRK7/view?usp=sharing](https://drive.google.com/file/d/1jUXXg0iv42XcnswReQKH6lVSHTVwqRK7/view?usp=sharing)
+- 📝 I regularly write articles on :: [https://medium.com/@momohemmanuel370](https://medium.com/@momohemmanuel370)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/its_nuelx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_nuelx" height="30" width="40" /></a>
-</p>
+- 📫 How to reach me ::  **momohemmanuel370@gmail.com**
+
+- 📄 Know about my experiences :: [https://drive.google.com/file/d/1jUXXg0iv42XcnswReQKH6lVSHTVwqRK7/view?usp=sharing](https://drive.google.com/file/d/1jUXXg0iv42XcnswReQKH6lVSHTVwqRK7/view?usp=sharing)
+
+- 📄Find me on LinkedIn ::  [LinkedIn](https://www.linkedin.com/in/emmmanuelmomoh/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
