@@ -2,7 +2,7 @@
 I'm Python developer who just likes to do hard stuffs.
 
 Products built:
-* [Uptrackr](www.uptrackr.co)
+* www.uptrackr.co
 
 
 <br>
