@@ -35,14 +35,11 @@ Products built:
   - Proficient in web scraping techniques using BeautifulSoup (BS4) and Playwright, extracting valuable insights from web data.
 
 - **Cloud Services:**
-  - Well-versed in AWS cloud services, ensuring scalable and secure deployment of applications.
+  - Well-versed in Google cloud services, ensuring scalable and secure deployment of applications.
 
 - **Version Control:**
   - Expertise in Git and GitHub for efficient version control and collaborative development.
 
-- **Data Science:**
-  - Skilled in data science and analysis using Python, transforming raw data into actionable insights.
-rning algorithms that solves real world problems. 
 - Web app Deployment (AWS)
 <br>
 <br>
