@@ -53,8 +53,6 @@ rning algorithms that solves real world problems.
 
 - 📫 How to reach me ::  **momohemmanuel370@gmail.com**
 
-- 📄 Know about my experiences :: [https://drive.google.com/file/d/1jUXXg0iv42XcnswReQKH6lVSHTVwqRK7/view?usp=sharing](https://drive.google.com/file/d/1jUXXg0iv42XcnswReQKH6lVSHTVwqRK7/view?usp=sharing)
-
 - 📄Find me on LinkedIn ::  [LinkedIn](https://www.linkedin.com/in/emmmanuelmomoh/)
 
 
